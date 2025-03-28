@@ -6,7 +6,7 @@ This repository contains a collection of research papers and materials related t
 
 1. **METIS*A Software Package for Partitioning Unstructured Graphs, Partitioning Meshes, and Computing Fill-Reducing Orderings of Sparse Matrices ** - *George Karypis and Vipin
  Kumar, 1997*  
-   - Summary: A brief explanation of the paper's content.  
+   - Summary: This study presents a software package called METIS for partitioning large graphs. 
    - [Download Paper](https://conservancy.umn.edu/server/api/core/bitstreams/4450f49b-2783-4a4e-b1a9-65cda2b403ac/content)
 
 2. **Quantifying the impact of network congestion on application performance and network metrics** - *Zhang, Y., Groves, T., Cook, B., Wright, N. J., & Coskun, A. K., 2020*  
@@ -35,6 +35,6 @@ If you're looking for a research direction for your master's thesis, here are so
 
 - Reducing communication in recommender systems. The goal of this thesis is to optimize the distribution and accessing data between nodes in parallel computing environments.
 
-  
+
 ## 📝 How to Contribute  
 If you have relevant papers or resources, feel free to contribute. Please send me the paper (mashemat@gmail.com), and we can categorize it under the appropriate topic. 

@@ -15,11 +15,11 @@ This repository contains a collection of research papers and materials related t
      
 3. **CHAMELEON: reactive load balancing for hybrid MPI+ OpenMP task-parallel applications.** - *Klinkenberg, J., Samfass, P., Bader, M., Terboven, C., & Müller, M. S, 2020*  
  - Summary: This paper present the first conceptual generalization of reactive load balancing.  
- - [Download Paper]([papers/paper2.pdf](https://www.sciencedirect.com/science/article/pii/S0743731519305180))
+ - [Download Paper](https://www.sciencedirect.com/science/article/pii/S0743731519305180)
    
 4. **MPIPP: An Automatic Profile-guided Parallel Process Placement Toolset for SMP Clusters and Multiclusters** - *Chen, H., Chen, W., Huang, J., Robert, B., & Kuhn, H., 2006*  
  - Summary: This paper propose a profile-guided approach to find the optimized mapping to minimize the cost of point-to-point communications for arbitrary message passing applications.
- - [Download Paper]()
+ - [Download Paper](https://dl.acm.org/doi/pdf/10.1145/1183401.1183451)
 
 5. **Understanding hot interconnects with an extensive benchmark survey** - *Li, Y., Qi, H., Lu, G., Jin, F., Guo, Y., & Lu, X., 2022*  
  - Summary: In this paper you can find the characterization of MPI libraries on different interconnects.
